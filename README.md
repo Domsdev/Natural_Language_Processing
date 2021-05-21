@@ -11,7 +11,7 @@
 
 ---
 
-**In this repository you will find different projects of classical NLP (Natural Language Processing) tasks:**
+**In this repository you will find different projects of classic NLP tasks:**
 - Text classification/Document Classification
 - Fake News Detection Identification
 - Sentiment Analysis
@@ -28,5 +28,5 @@
 I will then use this model to detect the language of new sentences taken from Wikipedia.<br/>
 This language detection task falls basically into Text Classification.<br/>
 
-<a href="https://domsdev.github.io/Data-science-blog/post/a_simple_linear_regression_from_scratch/">Blog post: A Simple Linear Regression from scratch</a>
+<a href="https://domsdev.github.io/Data-science-blog/post/a_simple_language_detector/">Blog post: A simple Language Detector</a>
 
